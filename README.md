@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemantranotiya
+- 👋 Hi, I’m Hemant Patidar
 - 👀 I’m interested in Data Science, ML, AI
 - 🌱 I’m currently heading IOTA Academy (IT Training & Placement Institute)
 - 💞️ I’m looking to collaborate on building a better place for job opportunities for freshers
